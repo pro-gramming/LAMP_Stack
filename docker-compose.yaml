@@ -1,0 +1,27 @@
+version: '3.7'
+
+services:
+    php-httpd:
+        build: ./
+        ports:
+            - 80:80
+        volumes:
+            - "../simple-website:/var/www/html"
+
+    mariadb:
+        image: mariadb:10.5.2
+        volumes:
+            - mariadb-volume:/var/lib/mysql
+        environment:
+            MYSQL_ROOT_PASSWORD: "1234"
+            MYSQL_DATABASE: 'simple-website'
+
+    phpmyadmin:
+        image: phpmyadmin/phpmyadmin
+        links:
+            - 'mariadb:db'
+        ports:
+            - 8081:80
+
+volumes:
+    mariadb-volume:

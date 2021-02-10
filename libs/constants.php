@@ -10,15 +10,15 @@
 // dont add a trailing / at the end
 define('HTTP_SERVER', 'http://localhost');
 // add slash / at the end
-define('SITE_DIR', '/simple-website/');
+define('SITE_DIR', '/usr/local/apache2/htdocs/simple-website/');
 
 // database prefix if you use
 define('DB_PREFIX', 'mp_');
 
 define('DB_DRIVER', 'mysql');
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mariadb');
 define('DB_HOST_USERNAME', 'root');
-define('DB_HOST_PASSWORD', '');
+define('DB_HOST_PASSWORD', '1234');
 define('DB_DATABASE', 'simple-website');
 
 define('SITE_NAME', 'Simple Website');

@@ -1,4 +1,3 @@
-CREATE DATABASE `simple-website`;
 USE `simple-website`;
 
 CREATE TABLE IF NOT EXISTS `mp_pages` (
