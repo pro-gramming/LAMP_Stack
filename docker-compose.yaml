@@ -2,6 +2,7 @@ version: '3.7'
 
 services:
     php-httpd:
+        container_name: webserver
         build: php_httpd
         ports:
             - 80:80
@@ -9,6 +10,7 @@ services:
             - "./website_content/:/var/www/html"
 
     mariadb:
+        container_name: database
         image: mariadb:10.5.2
         volumes:
             - mariadb-volume:/var/lib/mysql
@@ -19,6 +21,7 @@ services:
           - 3306:3306
 
     phpmyadmin:
+        container_name: db_dashboard
         image: phpmyadmin/phpmyadmin
         links:
             - 'mariadb:db'
