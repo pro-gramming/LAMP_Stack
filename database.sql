@@ -31,4 +31,4 @@ CREATE TABLE IF NOT EXISTS `mp_tagline` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
 
 INSERT INTO `mp_tagline` (`id`, `tagline1`, `tagline2`) VALUES
-(1, 'www.the_docker_guy.com', 'testing the lamp stack using simple website using php and mysql');
+(10, 'www.the_docker_guy.com', 'testing the lamp stack using simple website using php and mysql');
