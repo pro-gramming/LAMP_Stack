@@ -1,18 +1,18 @@
 <?php
 /*
  * @author Shahrukh Khan
- * @website http://www.thesoftwareguy.in
- * @facebook https://www.facebook.com/Thesoftwareguy7
- * @twitter https://twitter.com/thesoftwareguy7
- * @googleplus https://plus.google.com/+thesoftwareguyIn
+ * @website http://www.theDockerguy.in
+ * @facebook https://www.facebook.com/TheDockerguy7
+ * @twitter https://twitter.com/theDockerguy7
+ * @googleplus https://plus.google.com/+theDockerguyIn
  */
 ?>
 <!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <link rel="icon" href="http://thesoftwareguy.in/favicon.ico" type="image/x-icon" />
-<title>Admin Area - Simple Website - www.thesoftwareguy.in</title>
+ <link rel="icon" href="http://theDockerguy.in/favicon.ico" type="image/x-icon" />
+<title>Admin Area - Simple Website - www.theDockerguy.in</title>
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 <body>

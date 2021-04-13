@@ -1,10 +1,10 @@
 <?php
 /*
  * @author Shahrukh Khan
- * @website http://www.thesoftwareguy.in
- * @facebook https://www.facebook.com/Thesoftwareguy7
- * @twitter https://twitter.com/thesoftwareguy7
- * @googleplus https://plus.google.com/+thesoftwareguyIn
+ * @website http://www.theDockerguy.in
+ * @facebook https://www.facebook.com/TheDockerguy7
+ * @twitter https://twitter.com/theDockerguy7
+ * @googleplus https://plus.google.com/+theDockerguyIn
  */
 
 $page_id = $pageDetails["page_id"];
@@ -72,10 +72,10 @@ if ($_GET["id"] <> "") {
             <div class="row">
                 <div class="12u">
                     <a class="twitter-follow-button"
-		href="https://twitter.com/thesoftwareguy7"
+		href="https://twitter.com/theDockerguy7"
 		data-show-count="true" data-size="large"  
 		data-lang="en"  >
-		Follow @thesoftwareguy7
+		Follow @theDockerguy7
 		</a>
 		<script type="text/javascript">
 		window.twttr = (function (d, s, id) {
@@ -97,7 +97,7 @@ if ($_GET["id"] <> "") {
         <div>
             <div class="row">
                 <div class="12u">
-                    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FThesoftwareguy7&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=198210627014732" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
+                    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FTheDockerguy7&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=198210627014732" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
 
                 </div>
 

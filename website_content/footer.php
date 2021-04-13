@@ -5,7 +5,7 @@
 				<div class="row">
 					<div class="12u">
 						<div id="copyright">
-							<a href="http://www.thesoftwareguy.in" target="_blank">&copy; 2013 - <?php echo date("Y"); ?> www.thesoftwareguy.in</a> All rights Reserved. | Template taken from: <a href="http://html5up.net"> &copy; HTML5 UP</a> 
+							<a href="http://www.theDockerguy.in" target="_blank">&copy; 2013 - <?php echo date("Y"); ?> www.theDockerguy.in</a> All rights Reserved. | Template taken from: <a href="http://html5up.net"> &copy; HTML5 UP</a> 
 						</div>
 					</div>
 				</div>

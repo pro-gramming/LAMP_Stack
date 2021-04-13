@@ -11,11 +11,11 @@ E.g. if you create demo.php add demo as the page alias in the database.
 Have FUN
 Enjoy. 
 If you like my project.
-Visist my site http://www.thesoftwareguy.in
-Like my facebook fan page https://www.facebook.com/Thesoftwareguy7
-You can also follow me on twitter @thesoftwareguy7
+Visist my site http://www.theDockerguy.in
+Like my facebook fan page https://www.facebook.com/TheDockerguy7
+You can also follow me on twitter @theDockerguy7
 
-Copyright (c) 2013, Shahrukh Khan (http://www.thesoftwareguy.in)
+Copyright (c) 2013, Shahrukh Khan (http://www.theDockerguy.in)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
@@ -28,8 +28,8 @@ are permitted provided that the following conditions are met:
       this list of conditions and the following disclaimer in the documentation
       and/or other materials provided with the distribution.
 
-    * Neither the name of thesoftwareguy.in or Shahrukh Khan may be used to endorse or promote products derived from this
-      software without specific prior written permission.
+    * Neither the name of theDockerguy.in or Shahrukh Khan may be used to endorse or promote products derived from this
+      Docker without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED

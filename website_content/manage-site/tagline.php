@@ -1,10 +1,10 @@
 <?php
 /*
  * @author Shahrukh Khan
- * @website http://www.thesoftwareguy.in
- * @facebook https://www.facebook.com/Thesoftwareguy7
- * @twitter https://twitter.com/thesoftwareguy7
- * @googleplus https://plus.google.com/+thesoftwareguyIn
+ * @website http://www.theDockerguy.in
+ * @facebook https://www.facebook.com/TheDockerguy7
+ * @twitter https://twitter.com/theDockerguy7
+ * @googleplus https://plus.google.com/+theDockerguyIn
  */
 
 require("../libs/config.php");

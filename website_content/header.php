@@ -1,17 +1,17 @@
 <?php
 /*
  * @author Shahrukh Khan
- * @website http://www.thesoftwareguy.in
- * @facebook https://www.facebook.com/Thesoftwareguy7
- * @twitter https://twitter.com/thesoftwareguy7
- * @googleplus https://plus.google.com/+thesoftwareguyIn
+ * @website http://www.theDockerguy.in
+ * @facebook https://www.facebook.com/TheDockerguy7
+ * @twitter https://twitter.com/theDockerguy7
+ * @googleplus https://plus.google.com/+theDockerguyIn
  */
 ?>
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title><?php echo stripslashes($pageDetails["page_title"]); ?> - <?php echo SITE_NAME; ?> - www.thesoftwareguy.in</title>
-        <link rel="icon" href="http://thesoftwareguy.in/favicon.ico" type="image/x-icon" />
+        <title><?php echo stripslashes($pageDetails["page_title"]); ?> - <?php echo SITE_NAME; ?> - www.theDockerguy.in</title>
+        <link rel="icon" href="http://theDockerguy.in/favicon.ico" type="image/x-icon" />
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="<?php echo stripslashes($pageDetails["meta_desc"]); ?>" />
         <meta name="keywords" content="<?php echo stripslashes($pageDetails["meta_keywords"]); ?>" />

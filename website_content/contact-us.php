@@ -1,10 +1,10 @@
 <?php
 /*
  * @author Shahrukh Khan
- * @website http://www.thesoftwareguy.in
- * @facebook https://www.facebook.com/Thesoftwareguy7
- * @twitter https://twitter.com/thesoftwareguy7
- * @googleplus https://plus.google.com/+thesoftwareguyIn
+ * @website http://www.theDockerguy.in
+ * @facebook https://www.facebook.com/TheDockerguy7
+ * @twitter https://twitter.com/theDockerguy7
+ * @googleplus https://plus.google.com/+theDockerguyIn
  */
 
 require("libs/config.php");
@@ -17,7 +17,7 @@ if (isset($_POST["sbtn"])) {
 	$message = db_prepare_input($_POST["your_message"]);
 	$message = wordwrap($message, 70, "\r\n");
 	
-	$to = "thesoftwareguy7@gmail.com";
+	$to = "theDockerguy7@gmail.com";
 	
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type: text/plain; charset=iso-8859-1" . "\r\n";
